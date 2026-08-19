@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 72" role="img" aria-label="Real Gold Buyer">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F5E6A3"/>
+      <stop offset="45%" stop-color="#D4AF37"/>
+      <stop offset="100%" stop-color="#B8860B"/>
+    </linearGradient>
+  </defs>
+  <circle cx="36" cy="36" r="32" fill="none" stroke="url(#g)" stroke-width="2.2"/>
+  <circle cx="36" cy="36" r="24" fill="#111"/>
+  <text x="36" y="43" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="700" fill="url(#g)">RGB</text>
+  <text x="82" y="32" font-family="Georgia, serif" font-size="20" font-weight="700" fill="#111111" letter-spacing="0.6">Real Gold Buyer</text>
+  <text x="82" y="52" font-family="Arial, sans-serif" font-size="10" fill="#B8860B" letter-spacing="2.4">WE BUY YOUR GOLD</text>
+</svg>
